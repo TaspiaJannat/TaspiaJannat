@@ -1,16 +1,38 @@
 ![Web Developer](https://media1.tenor.com/m/OVwvYpuecLkAAAAC/alice-sticker-alice-animated.gif)
 ### Hi there 👋, my name is Taspia Jannat Moon
-#### Web Developer
+# Hi there 👋, my name is Taspia Jannat Moon
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Data Analyst 📊
 
-Skills: Word/powerpoint/HTML/CSS/C/C++/Python/MySQL/mongoDb
+I am a passionate explorer of data, specializing in transforming complex datasets into actionable insights through interactive dashboards, data modeling, and statistical analysis.
 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Github 
-- 📫 How to reach me: taspiamoon1@gmail.com 
+---
 
+### 🛠 Skills & Tools
+- **Data Analysis:** Excel (Advanced), Power BI (DAX, Data Modeling), Data Cleaning, Reporting.
+- **Languages:** Python (Pandas, NumPy, Matplotlib), MySQL, C/C++.
+- **Databases:** MySQL, MongoDB.
+- **Office Suite:** Microsoft Word, PowerPoint.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/TaspiaJannat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100088812701087)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/taspiamoon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg' alt='snapchat' height='40'>](https://www.snapchat.com/add/tasp_43?share_id=NJeZ7xfgRZM&locale=en-US)  
+---
 
+### 🔭 Current Focus
+- 🌱 I’m currently deep-diving into **Advanced DAX & Data Storytelling**.
+- 📊 I'm building end-to-end data projects to solve real-world business problems.
+- 👯 I’m looking to collaborate on Open Source Data Projects on GitHub.
 
+---
+
+### 📫 Connect with me:
+- 📧 Email: [taspiamoon1@gmail.com](mailto:taspiamoon1@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/taspia-jannat-moon-276457267/]
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
