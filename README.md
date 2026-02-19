@@ -1,5 +1,4 @@
 ![Web Developer](https://media1.tenor.com/m/OVwvYpuecLkAAAAC/alice-sticker-alice-animated.gif)
-### Hi there 👋, my name is Taspia Jannat Moon
 # Hi there 👋, my name is Taspia Jannat Moon
 
 ### Data Analyst 📊
